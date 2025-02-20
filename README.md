@@ -1,15 +1,15 @@
 [![MasterHead](https://miro.medium.com/v2/da:true/resize:fit:1200/0*6tTACH2N_p3omEg1)](https://heylink.me/SHRI31)
-<h1 align="center">Hi 👋, I'm Shribhagawat</h1>
-<h3 align="center">A passionate Android FullStack developer</h3>
+<h1 align="center">Hi 👋, I'm SHRI BHAGAWAT</h1>
+<h3 align="center">A passionate Cybersecurity Analyst from India, specializing in Vulnerability Assessment and Penetration Testing (VAPT), Web Security, Infrastructure Security, Mobile App Security, and API Security.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shribhagawat&label=Profile%20views&color=0e75b6&style=flat" alt="shribhagawat" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently working on **Vulnerability Assessment and Penetration Testing (VAPT), focusing on Web Security, Infrastructure Security, Mobile App Security, and API Security.**
 
 - 👨‍💻 All of my projects are available at [https://heylink.me/SHRI31](https://heylink.me/SHRI31)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Cyber Security & Ethical Hacking**
 
 - 📫 How to reach me **gshri8911@gmail.com**
 
