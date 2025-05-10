@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shribhagawat&label=Profile%20views&color=0e75b6&style=flat" alt="shribhagawat" /> </p>
 
-- 🌱 I’m currently working on **Vulnerability Assessment and Penetration Testing (VAPT), focusing on Web Security, Infrastructure Security, Mobile App Security, and API Security.**
+- 🌱 I’m currently working on **Vulnerability Assessment and Penetration Testing (VAPT), focusing on Web Security, Infrastructure Security, Mobile App Security, API Security and Database Configuration Review.**
 
 - 👨‍💻 All of my projects are available at [https://heylink.me/SHRI31](https://heylink.me/SHRI31)
 
