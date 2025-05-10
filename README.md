@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/da:true/resize:fit:1200/0*6tTACH2N_p3omEg1)](https://heylink.me/SHRI31)
+[![MasterHead](https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt8ffb90a2f64bacfa/6776f4544b281ca5e2bc465a/cybersecurity_NicoElNino-AlamyStockPhoto.jpg)](https://heylink.me/SHRI31)
 <h1 align="center">Hi 👋, I'm SHRI BHAGAWAT</h1>
 <h3 align="center">A passionate Cybersecurity Analyst from India, specializing in Vulnerability Assessment and Penetration Testing (VAPT), Web Security, Infrastructure Security, Mobile App Security, and API Security.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
